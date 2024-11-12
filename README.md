@@ -3,7 +3,7 @@ My first repository
 
 MY FAVORITE MOVIES
 ---
--Tangled
--Beauty and the Beast
--Camp Rock
--Highschool Musical
+1.Tangled
+2. Beauty and the Beast
+3. Camp Rock
+4. Highschool Musical
